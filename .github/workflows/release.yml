@@ -22,6 +22,6 @@ jobs:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
           body: |
-            Please see https://github.com/micom-dev/micom/blob/master/NEWS.md for the full release notes.
+            Please see https://github.com/micom-dev/micom_media/blob/main/NEWS.md for the full release notes.
           draft: false
           prerelease: false
