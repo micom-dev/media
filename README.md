@@ -1,4 +1,4 @@
-# Environmental growth media for MICOM :seedline: :earth_africa: :pizza:
+## Environmental growth media for MICOM :seedling: :earth_africa: :pizza:
 
 This repo contains recipes and artifacts for growth media with use in MICOM. Community contributions are very much welcome and invited :smile:
 
