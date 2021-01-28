@@ -59,7 +59,7 @@ absorbed in the small intestine were diluted 1:10. The medium is adapted to the 
 
 ---
 
-**Western diet medium for the human gut (AGORA)**
+**Western diet medium for the human gut (CARVEME)**
 
 [recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/carveme.ipynb) |
 [medium](https://github.com/micom-dev/media/raw/main/media/western_diet_gut_carveme.qza)
