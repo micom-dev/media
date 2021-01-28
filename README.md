@@ -37,7 +37,7 @@ Run all steps in the notebook and save it. Then add a new entry in the `Availabl
 
 *Short description of the medium*
 
-[recipe](recipes/my_recipe.ipynb) | [medium](https://raw.githubusercontent.com/micom-dev/media/raw/main/media/my_recipe.qza)
+[recipe](recipes/my_recipe.ipynb) | [medium](https://github.com/micom-dev/media/raw/main/media/my_recipe.qza)
 
 Longer description of the growth medium.
 ```
@@ -49,7 +49,7 @@ the repo.
 
 **Western diet medium for the human gut (AGORA)**
 
-[recipe](recipes/agora.ipynb) | [medium](https://raw.githubusercontent.com/micom-dev/media/raw/main/media/western_diet_gut_agora.qza)
+[recipe](recipes/agora.ipynb) | [medium](https://github.com/micom-dev/media/raw/main/media/western_diet_gut_agora.qza)
 
 This is a growth medium representing the likely distribution of available nutrients in the lower intesting under
 an average European diet. The medium was taken from https://doi.org/10.1038/nbt.4212 and components commonly
@@ -59,7 +59,7 @@ absorbed in the small intestine were diluted 1:10. The medium is adapted to the 
 
 **Western diet medium for the human gut (AGORA)**
 
-[recipe](recipes/carveme.ipynb) | [medium](https://raw.githubusercontent.com/micom-dev/media/raw/main/media/western_diet_gut_carveme.qz)
+[recipe](recipes/carveme.ipynb) | [medium](https://github.com/micom-dev/media/raw/main/media/western_diet_gut_carveme.qza)
 
 This is a growth medium representing the likely distribution of available nutrients in the lower intesting under
 an average European diet. The medium was taken from https://doi.org/10.1038/nbt.4212 and components commonly
