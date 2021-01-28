@@ -1,6 +1,6 @@
 # Environmental growth media for MICOM :seedline: :earth_africa: :pizza:
 
-This repo contains recipes and artifacts for growth media with use in MICOM. Community contributions are very much welcome and invited :smile: 
+This repo contains recipes and artifacts for growth media with use in MICOM. Community contributions are very much welcome and invited :smile:
 
 ## How to add a new recipe/medium
 
@@ -36,14 +36,19 @@ Run all steps in the notebook and save it. Then add a new entry in the `Availabl
 ---
 
 *Short description of the medium*
+
 [recipe](recipes/my_recipe.ipynb) | [medium](https://raw.githubusercontent.com/micom-dev/media/main/media/my_recipe.qza)
 
 Longer description of the growth medium.
 ```
 
+Finally create a pull request on this repository which will make your medium for addition into
+the repo.
+
 ## Available media
 
 **Western diet medium for the human gut (AGORA)**
+
 [recipe](recipes/agora.ipynb) | [medium](https://raw.githubusercontent.com/micom-dev/media/main/media/agora.qza)
 
 This is a growth medium representing the likely distribution of available nutrients in the lower intesting under
@@ -53,6 +58,7 @@ absorbed in the small intestine were diluted 1:10. The medium is adapted to the 
 ---
 
 **Western diet medium for the human gut (AGORA)**
+
 [recipe](recipes/carveme.ipynb) | [medium](https://raw.githubusercontent.com/micom-dev/media/main/media/agora.qza)
 
 This is a growth medium representing the likely distribution of available nutrients in the lower intesting under
