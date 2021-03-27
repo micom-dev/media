@@ -69,3 +69,16 @@ an average European diet. The medium was taken from https://doi.org/10.1038/nbt.
 absorbed in the small intestine were diluted 1:10. Only components that could be mapped to the CARVEME DB were kept
 and the medium was completed to allow growth for all 1.8K+ genera in the database. The medium is adapted to the CARVEME
 reconstructions using Refseq v84.
+
+---
+
+**VMH high fat low carbs (AGORA)**
+
+[recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_high_fat_low_carb_agora.ipynb) |
+[medium](https://github.com/micom-dev/media/raw/main/media/vmh_high_fat_low_carb_agora.qza)
+
+This is the completed [VMH](https://vmh.life) growth medium representing a high fat/protein low carb diet. Components
+commonly adsorbed in the small intestine were identified by matching reactions to metabolites adsorbed in the 
+Recon3 human model. As low carb diets usually allow for less bacterial growth this medium was only completed
+to allow for a minimal growth rate of 1e-4 in AGORA 1.03.
+
