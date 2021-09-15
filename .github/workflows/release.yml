@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           artifacts: 'media/*.qza'
           body: |
-            This is a point release of the growth media for MICOM.
-            Use the links below to download growth media from this particular release.
+            Please see https://github.com/micom-dev/micom_media/blob/main/NEWS.md for the full release notes.
+            Use the links below to download media compositions from this particular release.
           draft: false
           prerelease: false
