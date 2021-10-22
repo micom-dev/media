@@ -82,3 +82,12 @@ commonly adsorbed in the small intestine were identified by matching reactions t
 Recon3 human model. As low carb diets usually allow for less bacterial growth this medium was only completed
 to allow for a minimal growth rate of 1e-4 in AGORA 1.03.
 
+---
+
+**Breast milk-fed infant (AGORA)**
+
+[recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/breast_milk_agora.ipynb) |
+[medium](https://github.com/micom-dev/media/raw/main/media/breast_milk_agora.qza)
+
+This is a completed medium based on a breast milk-only diet of an infant. Lactose is the major carbon source here.
+Medium was depleted for components absorbed by human cells and mucin/primary bile acids were added to the medium.
