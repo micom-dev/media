@@ -74,19 +74,13 @@ reconstructions using Refseq v84.
 
 **VMH diets**
 
-| Recipe | Medium |
-| ------ | ------ |
-| [Austrian average recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_eu_average_agora.ipynb) |
-[Austrian average medium](https://github.com/micom-dev/media/raw/main/media/vmh_eu_average_agora.qza) |
-| [high fat low carb recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_high_fat_low_carb_agora.ipynb) |
-[high fat low carb medium](https://github.com/micom-dev/media/raw/main/media/vmh_high_fat_low_carb_agora.qza) |
-
-[high fat low carb recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_high_fiber_carb_agora.ipynb) |
-[high fat low carb medium](https://github.com/micom-dev/media/raw/main/media/vmh_high_fiber_agora.qza)<br>
-[fermented recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_fermented_agora.ipynb) |
-[fermented medium](https://github.com/micom-dev/media/raw/main/media/vmh_fermented_agora.qza)<br>
-[formula recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_formula_agora.ipynb) |
-[formula medium](https://github.com/micom-dev/media/raw/main/media/vmh_formula_agora.qza)
+| Diet | Recipe | Medium |
+| ---- | ------ | ------ |
+| Austrian average diet | [Austrian average recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_eu_average_agora.ipynb) | [Austrian average medium](https://github.com/micom-dev/media/raw/main/media/vmh_eu_average_agora.qza) |
+| high fat/protein low carb diet | [high fat low carb recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_high_fat_low_carb_agora.ipynb) | [high fat low carb medium](https://github.com/micom-dev/media/raw/main/media/vmh_high_fat_low_carb_agora.qza) |
+| high fiber diet | [high fiber](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_high_fiber_carb_agora.ipynb) | [high fiber medium](https://github.com/micom-dev/media/raw/main/media/vmh_high_fiber_agora.qza) |
+| fermented foods diet<br> (80% high fiber diet + 20% fermented foods) | [fermented recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_fermented_agora.ipynb) | [fermented medium](https://github.com/micom-dev/media/raw/main/media/vmh_fermented_agora.qza) |
+| baby formula | [formula recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_formula_agora.ipynb) | [formula medium](https://github.com/micom-dev/media/raw/main/media/vmh_formula_agora.qza) |
 
 These are the completed [VMH](https://vmh.life) growth medium representing a variety of diets. Components
 commonly adsorbed in the small intestine were identified by matching reactions to metabolites adsorbed in the
@@ -113,9 +107,12 @@ Medium was depleted for components absorbed by human cells and mucin/primary bil
 
 **Single meal diets (AGORA)**
 
-[]
+| Population | Region | Recipe | Medium |
+| ---------- | ------ | ------ | ------ |
+| Hadza | Tanzania | [Hadza meal recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/baobab_honey_antelope.ipynb) | [Hadza meal medium](https://github.com/micom-dev/media/raw/main/media/baobab_honey_antelope.qza) |
+| Me'Phaa | Mexico | [Me'Phaa recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/guerrero_mountains.ipynb) | [Me'Phaa medium](https://github.com/micom-dev/media/raw/main/media/guerrero_mountains.qza) |
+| Chepang | Nepal | [Chepang meal recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/himalaya.ipynb) | [Chepang meal medium](https://github.com/micom-dev/media/raw/main/media/himalaya.qza) |
 
-Those are ~1000kcal single meal media for a set of indigenous populations across the globe. Each of them
-tends to include 4-5 representative food items detailed in the [source mapping](https://github.com/micom-dev/media/raw/main/data/foods_diets.xslx).
-Those are not necessarily representative for the diverse diets of the respective poopulation, but are usually more
-realistic than an average European diet.
+Those are ~1000kcal single meal media for a set of indigenous populations across the globe. Each of them tends to include 4-5 representative food items detailed in the [source mapping](https://github.com/micom-dev/media/raw/main/data/foods_diets.xslx).
+Those are not necessarily representative for the diverse diets of the respective poopulation, but are usually more realistic than an average European diet. For a more in depth discussion please refer to
+the [2022 ISB Microbiome Series](https://isbscience.org/microbiome2022).
