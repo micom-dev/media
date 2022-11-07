@@ -72,15 +72,32 @@ reconstructions using Refseq v84.
 
 ---
 
-**VMH high fat low carbs (AGORA)**
+**VMH diets**
 
-[recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_high_fat_low_carb_agora.ipynb) |
-[medium](https://github.com/micom-dev/media/raw/main/media/vmh_high_fat_low_carb_agora.qza)
+| Recipe | Medium |
+| ------ | ------ |
+| [Austrian average recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_eu_average_agora.ipynb) |
+[Austrian average medium](https://github.com/micom-dev/media/raw/main/media/vmh_eu_average_agora.qza) |
+| [high fat low carb recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_high_fat_low_carb_agora.ipynb) |
+[high fat low carb medium](https://github.com/micom-dev/media/raw/main/media/vmh_high_fat_low_carb_agora.qza) |
 
-This is the completed [VMH](https://vmh.life) growth medium representing a high fat/protein low carb diet. Components
-commonly adsorbed in the small intestine were identified by matching reactions to metabolites adsorbed in the 
-Recon3 human model. As low carb diets usually allow for less bacterial growth this medium was only completed
-to allow for a minimal growth rate of 1e-4 in AGORA 1.03.
+[high fat low carb recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_high_fiber_carb_agora.ipynb) |
+[high fat low carb medium](https://github.com/micom-dev/media/raw/main/media/vmh_high_fiber_agora.qza)<br>
+[fermented recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_fermented_agora.ipynb) |
+[fermented medium](https://github.com/micom-dev/media/raw/main/media/vmh_fermented_agora.qza)<br>
+[formula recipe](https://nbviewer.jupyter.org/github/micom-dev/media/blob/main/recipes/vmh_formula_agora.ipynb) |
+[formula medium](https://github.com/micom-dev/media/raw/main/media/vmh_formula_agora.qza)
+
+These are the completed [VMH](https://vmh.life) growth medium representing a variety of diets. Components
+commonly adsorbed in the small intestine were identified by matching reactions to metabolites adsorbed in the
+Recon3 human model.
+
+**Provided diets**:
+- Austrian average diet
+- high fat/protein low carb diet
+- high fiber diet
+- fermented foods diet (80% high fiber diet + 20% fermented foods)
+- baby formula
 
 ---
 
@@ -91,3 +108,14 @@ to allow for a minimal growth rate of 1e-4 in AGORA 1.03.
 
 This is a completed medium based on a breast milk-only diet of an infant. Lactose is the major carbon source here.
 Medium was depleted for components absorbed by human cells and mucin/primary bile acids were added to the medium.
+
+---
+
+**Single meal diets (AGORA)**
+
+[]
+
+Those are ~1000kcal single meal media for a set of indigenous populations across the globe. Each of them
+tends to include 4-5 representative food items detailed in the [source mapping](https://github.com/micom-dev/media/raw/main/data/foods_diets.xslx).
+Those are not necessarily representative for the diverse diets of the respective poopulation, but are usually more
+realistic than an average European diet.
